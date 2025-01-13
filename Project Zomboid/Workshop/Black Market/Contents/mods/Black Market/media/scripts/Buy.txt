@@ -1,0 +1,259 @@
+module BlackMarket
+{
+  imports
+  {
+		Base
+	}
+  recipe Buy Katana {
+    Base.CreditCard=50,
+    Result:Base.Katana,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy Pistol {
+    Base.CreditCard=10,
+    Result:Base.Pistol,
+    Time:10.0,
+    Category:Buy
+  }
+	recipe Buy Pistol2 {
+    Base.CreditCard=10,
+    Result:Base.Pistol2,
+    Time:10.0,
+    Category:Buy
+	}
+  recipe Buy Pistol3 {
+    Base.CreditCard=10,
+    Result:Base.Pistol3,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy RevolverShort {
+    Base.CreditCard=10,
+    Result:Base.Revolver_Short,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy Revolver {
+    Base.CreditCard=10,
+    Result:Base.Revolver,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy RevolverLong {
+    Base.CreditCard=10,
+    Result:Base.Revolver_Long,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy VarmintRifle {
+    Base.CreditCard=20,
+    Result:Base.VarmintRifle,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy HuntingRifle {
+    Base.CreditCard=20,
+    Result:Base.HuntingRifle,
+    Time:10.0,
+    Category:Buy
+  }
+	recipe Buy AssaultRifle2 {
+		Base.CreditCard=20,
+		Result:Base.AssaultRifle2,
+		Time:10.0,
+		Category:Buy
+	}
+  recipe Buy AssaultRifle {
+    Base.CreditCard=20,
+    Result:Base.AssaultRifle,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy Shotgun {
+    Base.CreditCard=30,
+    Result:Base.Shotgun,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy ShotgunSawnoff {
+    Base.CreditCard=30,
+    Result:Base.ShotgunSawnoff,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy DoubleBarrelShotgun {
+    Base.CreditCard=30,
+    Result:Base.DoubleBarrelShotgun,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy DoubleBarrelShotgunSawnoff {
+    Base.CreditCard=30,
+    Result:Base.DoubleBarrelShotgunSawnoff,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy Bullets38Box {
+    Base.CreditCard=5,
+    Result:Base.Bullets38Box,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy Bullets44Box {
+    Base.CreditCard=5,
+    Result:Base.Bullets44Box,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy Bullets45Box {
+    Base.CreditCard=5,
+    Result:Base.Bullets45Box,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy 223Box {
+    Base.CreditCard=5,
+    Result:Base.223Box,
+    Time:10.0,
+    Category:Buy
+  }
+	recipe Buy 308Box {
+    Base.CreditCard=5,
+    Result:Base.308Box,
+    Time:10.0,
+    Category:Buy
+	}
+	recipe Buy 556Box {
+		Base.CreditCard=5,
+		Result:Base.556Box,
+		Time:10.0,
+		Category:Buy
+	}
+	recipe Buy Bullets9mmBox {
+    Base.CreditCard=5,
+    Result:Base.Bullets9mmBox,
+    Time:10.0,
+    Category:Buy
+	}
+  recipe Buy ShotgunShellsBox {
+    Base.CreditCard=5,
+    Result:Base.ShotgunShellsBox,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy 44Clip {
+    Base.CreditCard=5,
+    Result:Base.44Clip,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy 45Clip {
+    Base.CreditCard=5,
+    Result:Base.45Clip,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy 223Clip {
+    Base.CreditCard=5,
+    Result:Base.223Clip,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy 308Clip {
+    Base.CreditCard=5,
+    Result:Base.308Clip,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy M14Clip {
+    Base.CreditCard=5,
+    Result:Base.M14Clip,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy 556Clip {
+    Base.CreditCard=5,
+    Result:Base.556Clip,
+    Time:10.0,
+    Category:Buy
+  }
+  recipe Buy 9mmClip {
+    Base.CreditCard=5,
+    Result:9mmClip,
+    Time:10.0,
+    Category:Buy
+  }
+	recipe Buy AmmoStraps {
+    Base.CreditCard=5,
+    Result:Base.AmmoStraps,
+    Time:10.0,
+    Category:Buy
+	}
+	recipe Buy ChokeTubeFull {
+		Base.CreditCard=5,
+		Result:Base.ChokeTubeFull,
+		Time:10.0,
+		Category:Buy
+	}
+	recipe Buy ChokeTubeImproved {
+    Base.CreditCard=5,
+    Result:Base.ChokeTubeImproved,
+    Time:10.0,
+    Category:Buy
+	}
+	recipe Buy FiberglassStock {
+		Base.CreditCard=5,
+		Result:Base.FiberglassStock,
+		Time:10.0,
+		Category:Buy
+	}
+	recipe Buy IronSight {
+    Base.CreditCard=5,
+    Result:Base.IronSight,
+    Time:10.0,
+    Category:Buy
+	}
+	recipe Buy Laser {
+		Base.CreditCard=5,
+		Result:Base.Laser,
+		Time:10.0,
+		Category:Buy
+	}
+	recipe Buy RecoilPad {
+    Base.CreditCard=5,
+    Result:Base.RecoilPad,
+    Time:10.0,
+    Category:Buy
+	}
+	recipe Buy RedDot {
+		Base.CreditCard=5,
+		Result:Base.RedDot,
+		Time:10.0,
+		Category:Buy
+	}
+	recipe Buy Sling {
+    Base.CreditCard=5,
+    Result:Base.Sling,
+    Time:10.0,
+    Category:Buy
+	}
+	recipe Buy x2Scope {
+		Base.CreditCard=5,
+		Result:Base.x2Scope,
+		Time:10.0,
+		Category:Buy
+	}
+	recipe Buy x4Scope {
+    Base.CreditCard=5,
+    Result:Base.x4Scope,
+    Time:10.0,
+    Category:Buy
+	}
+	recipe Buy x8Scope {
+		Base.CreditCard=5,
+		Result:Base.x8Scope,
+		Time:10.0,
+		Category:Buy
+	}
+}

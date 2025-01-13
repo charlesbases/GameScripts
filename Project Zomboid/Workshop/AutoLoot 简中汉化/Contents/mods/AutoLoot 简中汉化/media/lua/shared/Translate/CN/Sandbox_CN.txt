@@ -1,0 +1,17 @@
+Sandbox_CN = {
+    Sandbox_AutoDrop = "[MOD] Auto Loot",
+    Sandbox_AutoDrop_LootMode = "拾取模式",
+    Sandbox_AutoDrop_LootMode_tooltip = "覆盖 options 设置",
+    Sandbox_AutoDrop_LootMode_option1 = "使用 options 设置",
+    Sandbox_AutoDrop_LootMode_option2 = "自动拾取",
+    Sandbox_AutoDrop_LootMode_option3 = "自动丢弃",
+    Sandbox_AutoDrop_LootMode_option4 = "立即拾取",
+    Sandbox_AutoDrop_ContextualAddRemove = "右键菜单允许添加/删除物品类别",
+    Sandbox_AutoDrop_ContextualAddRemove_tooltip = "Context menu allows to add/remove an item type.",
+    Sandbox_AutoDrop_ContextualBagFilter = "右键菜单允许筛选背包存放的物品类别",
+    Sandbox_AutoDrop_ContextualBagFilter_tooltip = "Context menu allows to filter what item category is allowed in each bag.",
+    Sandbox_AutoDrop_ContextualPriority  = "右键菜单允许设置背包的优先级",
+    Sandbox_AutoDrop_ContextualPriority_tooltip = "Context menu allows set a priority for each bag.",
+    Sandbox_AutoDrop_ContextualInhibiter = "右键菜单允许禁止背包自动拾取",
+    Sandbox_AutoDrop_ContextualInhibiter_tooltip = "Context menu allows to inhibit any kind of container.",
+}

@@ -1,0 +1,27 @@
+IG_UI_CN = {
+    IGUI_PlayerText_HTCWarmupReactionPre_01 = "嗯？什么动静 ",
+    IGUI_PlayerText_HTCWarmupReactionPre_02 = "艹！！声响来自于 ",
+    IGUI_PlayerText_HTCWarmupReactionPre_03 = "卧槽？！！ ",
+
+    IGUI_PlayerText_HTCDirection_0 = "东面"
+    IGUI_PlayerText_HTCDirection_1 = "东南面"
+    IGUI_PlayerText_HTCDirection_2 = "南面"
+    IGUI_PlayerText_HTCDirection_3 = "西南面"
+    IGUI_PlayerText_HTCDirection_4 = "西面"
+    IGUI_PlayerText_HTCDirection_5 = "西北面"
+    IGUI_PlayerText_HTCDirection_6 = "北面"
+    IGUI_PlayerText_HTCDirection_7 = "东北面"
+
+    IGUI_PlayerText_HTCWarmupReactionPost_01 = "情况有点不对劲！",
+    IGUI_PlayerText_HTCWarmupReactionPost_02 = "快离开这儿！",
+    IGUI_PlayerText_HTCWarmupReactionPost_03 = "卧槽！快跑！！！"
+
+    IGUI_PlayerText_HTCStartReaction_00 = "它们来了！"
+    IGUI_PlayerText_HTCStartReaction_01 = "它们又来了！"
+    IGUI_PlayerText_HTCStartReaction_02 = "卧槽！这么猛？！"
+    IGUI_PlayerText_HTCStartReaction_03 = "打倒日本帝国主义！！！"
+
+    IGUI_PlayerText_HTCEndReaction_01 = "还有谁？！！"
+    IGUI_PlayerText_HTCEndReaction_02 = "就这？？？"
+    IGUI_PlayerText_HTCEndReaction_03 = "中国共产党万岁！！！"
+}

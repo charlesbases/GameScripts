@@ -1,0 +1,4 @@
+IGUI_CN = {
+	IGUI_CraftCategory_Buy = "购买",
+	IGUI_CraftCategory_Sell = "出售",
+}

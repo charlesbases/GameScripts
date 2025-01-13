@@ -1,0 +1,14 @@
+IG_UI_CN = {
+    IGUI_AutoLoot_Filter = "筛选",
+    IGUI_AutoLoot_NoFilter     = "<-- 无筛选 -->",
+    IGUI_AutoLoot_CustomFilter = "- 自定义 -",
+    IGUI_AutoLoot_Filter_Tooltip = "容器仅存放指定的物品",
+    IGUI_AutoLoot_Item = "自动拾取",
+    IGUI_AutoLoot_Item_Tooltip = "开启/关闭自动拾取",
+    IGUI_AutoLoot_ActiveOnContainer = "开启自动拾取",
+    IGUI_AutoLoot_InhibitedOnContainer = "关闭自动拾取",
+    IGUI_AutoLoot_OnContainer_Tooltip = "开启/关闭自动拾取",
+    IGUI_AutoLoot_ManualPriorityMenu = "优先级",
+    IGUI_AutoLoot_Priority_Tooltip = "自动拾取物品的存放容器优先级",
+    IGUI_ItemCat_AutoLootPriority = "%1",
+}

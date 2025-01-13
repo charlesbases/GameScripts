@@ -1,0 +1,109 @@
+module BlackMarket
+{
+	imports
+	{
+		Base
+	}
+	recipe Exchange {
+		Base.Money=100,
+		Result:Base.CreditCard,
+		Time:10.0,
+		Category:Sell
+	}
+	recipe Open Wallet {
+		Wallet/Wallet2/Wallet3/Wallet4,
+		Result:Base.CreditCard,
+		Time:10.0,
+		Category:Sell
+	}
+	recipe Clothing {
+		Ring_Left_MiddleFinger_Gold/Ring_Left_MiddleFinger_GoldDiamond/Ring_Left_MiddleFinger_GoldRuby/Ring_Left_RingFinger_Gold/Ring_Left_RingFinger_GoldDiamond/Ring_Left_RingFinger_GoldRuby/Ring_Right_MiddleFinger_Gold/Ring_Right_MiddleFinger_GoldDiamond/Ring_Right_MiddleFinger_GoldRuby/Ring_Right_RingFinger_Gold/Ring_Right_RingFinger_GoldDiamond/Ring_Right_RingFinger_GoldRuby/Bracelet_BangleLeftGold/Bracelet_BangleRightGold/Bracelet_ChainLeftGold/Bracelet_ChainRightGold/Earring_LoopLrg_Gold/Earring_LoopMed_Gold/Earring_LoopSmall_Gold_Both/Earring_LoopSmall_Gold_Top/Earring_Stud_Gold/BellyButton_DangleGold/BellyButton_DangleGoldRuby/BellyButton_RingGold/BellyButton_RingGoldDiamond/BellyButton_RingGoldRuby/BellyButton_StudGold/BellyButton_StudGoldDiamond/NecklaceLong_Gold/NecklaceLong_GoldDiamond/Necklace_Gold/Necklace_GoldDiamond/Necklace_GoldRuby/NoseRing_Gold/NoseStud_Gold,
+		Result:Base.CreditCard,
+		Time:10.0,
+		Category:Sell
+	}
+  recipe Sell Pistol {
+    Pistol,
+    Result:Base.CreditCard,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell Pistol2 {
+    Pistol2,
+    Result:Base.CreditCard,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell Pistol3 {
+    Pistol3,
+    Result:Base.CreditCard,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell RevolverShort {
+    RevolverShort,
+    Result:Base.CreditCard,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell Revolver {
+    Revolver,
+    Result:Base.CreditCard,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell RevolverLong {
+    RevolverLong,
+    Result:Base.CreditCard,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell VarmintRifle {
+    VarmintRifle,
+    Result:Base.CreditCard=2,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell HuntingRifle {
+    HuntingRifle,
+    Result:Base.CreditCard=2,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell AssaultRifle2 {
+    AssaultRifle2,
+    Result:Base.CreditCard=2,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell AssaultRifle {
+    AssaultRifle,
+    Result:Base.CreditCard=2,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell Shotgun {
+    Shotgun,
+    Result:Base.CreditCard=3,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell ShotgunSawnoff {
+    ShotgunSawnoff,
+    Result:Base.CreditCard=3,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell DoubleBarrelShotgun {
+    DoubleBarrelShotgun,
+    Result:Base.CreditCard=3,
+    Time:10.0,
+    Category:Sell
+  }
+  recipe Sell DoubleBarrelShotgunSawnoff {
+    DoubleBarrelShotgunSawnoff,
+    Result:Base.CreditCard=3,
+    Time:10.0,
+    Category:Sell
+  }
+}

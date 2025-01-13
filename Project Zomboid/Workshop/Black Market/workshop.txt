@@ -1,0 +1,13 @@
+version=1
+id=3407176001
+title=黑市
+description=制作菜单中添加各类物品购买/售出
+description=
+description=========
+description=2025/1/14
+description=1、修改金钱和信用卡重量为 0；
+description=2、添加枪械、首饰卖出；
+description=3、添加枪械、子弹、配件购买；
+description=4、武士刀耐久度拉满。
+tags=Build 41
+visibility=public

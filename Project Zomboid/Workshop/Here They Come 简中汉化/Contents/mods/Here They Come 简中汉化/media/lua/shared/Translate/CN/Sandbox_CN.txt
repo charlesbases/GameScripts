@@ -1,0 +1,72 @@
+Sandbox_CN = {
+    ----- HereTheyCome -----
+    Sandbox_HereTheyCome = "[MOD] Here They Come"
+    Sandbox_HereTheyCome_HordeCooldown = "冷却时间"
+    Sandbox_HereTheyCome_HordeCooldown_tooltip = "游戏内两次尸潮间隔多少分钟"
+
+    Sandbox_HereTheyCome_HordeMinHour = "最早开始时间"
+    Sandbox_HereTheyCome_HordeMinHour_tooltip = "一天中触发尸潮的时间点不会早于该值"
+
+    Sandbox_HereTheyCome_HordeMaxHour = "最迟开始时间"
+    Sandbox_HereTheyCome_HordeMaxHour_tooltip = "一天中触发尸潮的时间点不会晚于该值"
+
+    Sandbox_HereTheyCome_HordeMinHourlyProgress = "每小时最低进度"
+    Sandbox_HereTheyCome_HordeMinHourlyProgress_tooltip = "每小时的最低僵尸骚动值上涨度"
+
+    Sandbox_HereTheyCome_HordeMaxHourlyProgress = "每小时最高进度"
+    Sandbox_HereTheyCome_HordeMaxHourlyProgress_tooltip = "每小时的最高僵尸骚动值上涨度"
+
+    Sandbox_HereTheyCome_HordeTriggerThreshold = "触发阈值"
+    Sandbox_HereTheyCome_HordeTriggerThreshold_tooltip = "僵尸骚动值的阈值，达到阈值后会触发袭击"
+
+    Sandbox_HereTheyCome_HordeFirstDay = "开始日期"
+    Sandbox_HereTheyCome_HordeFirstDay_tooltip = "第一次尸潮在几天后出现"
+
+    Sandbox_HereTheyCome_HordeNumWaves = "波次设置"
+    Sandbox_HereTheyCome_HordeNumWaves_tooltip = "每次尸潮的波次数"
+
+    Sandbox_HereTheyCome_HordeWaveMinZombieCount = "最低僵尸数"
+    Sandbox_HereTheyCome_HordeWaveMinZombieCount_tooltip = "每波最低僵尸数"
+
+    Sandbox_HereTheyCome_HordeWaveMaxZombieCount = "最高僵尸数"
+    Sandbox_HereTheyCome_HordeWaveMaxZombieCount_tooltip = "每波最高僵尸数"
+
+    Sandbox_HereTheyCome_HordeZombieIncrement = "额外僵尸数"
+    Sandbox_HereTheyCome_HordeZombieIncrement_tooltip = "每次尸潮额外增加的僵尸数"
+
+    Sandbox_HereTheyCome_TimeBetweenWaves = "波次间隔"
+    Sandbox_HereTheyCome_TimeBetweenWaves_tooltip = "每波间隔多少分钟"
+
+    Sandbox_HereTheyCome_HordeMinSpawnDistance = "最小刷新距离"
+    Sandbox_HereTheyCome_HordeMinSpawnDistance_tooltip = "控制尸潮刷新时与玩家的最小距离"
+
+    Sandbox_HereTheyCome_HordeMaxSpawnDistance = "最大刷新距离"
+    Sandbox_HereTheyCome_HordeMaxSpawnDistance_tooltip = "控制尸潮刷新时与玩家的最大距离"
+
+    Sandbox_HereTheyCome_HordeDirectionMaxAngle = "刷新角度"
+    Sandbox_HereTheyCome_HordeDirectionMaxAngle_tooltip = "会在玩家周围多少度的范围内刷新僵尸"
+
+    Sandbox_HereTheyCome_HordeWaveBatchSize = "刷新数量"
+    Sandbox_HereTheyCome_HordeWaveBatchSize_tooltip = "每次刷新的僵尸数量，不影响每波僵尸数"
+
+    Sandbox_HereTheyCome_HordeWaveBatchTicks = "刷新延迟"
+    Sandbox_HereTheyCome_HordeWaveBatchTicks_tooltip = "每波尸潮分批次刷新，两次刷新之间的时间间隔，不确定单位是否为秒"
+
+    Sandbox_HereTheyCome_HordeProgressIndicator = "尸潮进度"
+    Sandbox_HereTheyCome_HordeProgressIndicator_tooltip = "是否显示骚动进度图标"
+
+    Sandbox_HereTheyCome_HordeWarnText = "提示信息"
+    Sandbox_HereTheyCome_HordeWarnText_tooltip = "当尸潮开始时显示一条警告信息"
+
+    Sandbox_HereTheyCome_HordeWarnTime = "时间提示"
+    Sandbox_HereTheyCome_HordeWarnTime_tooltip = "显示距第一波尸潮开始还有多少分钟"
+
+    Sandbox_HereTheyCome_PulsePlayersDuringHorde = "玩家声音"
+    Sandbox_HereTheyCome_PulsePlayersDuringHorde_tooltip = "在尸潮期间，玩家身上会周期性发出本人所无法感知的声音，吸引一定范围内的僵尸"
+
+    Sandbox_HereTheyCome_PulseRange = "声音距离"
+    Sandbox_HereTheyCome_PulseRange_tooltip = "玩家身上发出的声音会吸引多大范围内的僵尸"
+
+    Sandbox_HereTheyCome_TimeBetweenPulses = "声音频率"
+    Sandbox_HereTheyCome_TimeBetweenPulses_tooltip = "两次声音间会间隔多少分钟"
+}
